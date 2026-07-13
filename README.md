@@ -1,4 +1,4 @@
-### Hi there, I am Muhammad Hashir Ilyas 👋
+## Hi there, I am Muhammad Hashir Ilyas 👋
 
 [Email](mailto:muhammadhashir.ilyas@gmail.com) • [LinkedIn](https://linkedin.com/in/muhammad-hashir-ilyas-176134340)
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📂 Highlighted Repositories
+### 📂 Highlighted Repositories
 *(Scroll down to the pinned section to view full source code)*
 
 * 💻 **[sha-256-riscv-xv6](https://github.com/mimadraza/sha-256-riscv-xv6)** — SHA-256 hashing algorithm implemented as an XV6 kernel system call.
